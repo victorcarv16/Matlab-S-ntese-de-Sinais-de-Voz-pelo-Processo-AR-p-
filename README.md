@@ -15,4 +15,8 @@ Figura 2(a): Corte no Áudio do primeiro nome.
 ![image](https://user-images.githubusercontent.com/67208118/184558582-eb168b27-d474-452a-b264-151d818809e7.png)
 Figura 2(b): Corte no Áudio do segundo nome. 
 
+Duração FINAL dos cortes silábicos:
+Como  resultado do processo de corte silábico no primeiro e segundo nome temos a Tabela 1 que pode ser observada logo abaixo.
 
+Tabela 1: Duração dos áudios silábicos obtidos através de edição (corte) das gravações.
+![image](https://user-images.githubusercontent.com/67208118/184558637-d3ccc51e-4763-46e1-8bda-b8acc6e2643d.png)
