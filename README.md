@@ -2,4 +2,6 @@
 Síntese de Sinais de Voz pelo Processo AR(p) 
 
 
-Após a gravação dos nomes utilizando o gravador de voz do Windows foi realizado a extração silábica dos áudios através do software mp3cut, então é feita a medição da duração dos mesmos![image](https://user-images.githubusercontent.com/67208118/184557190-8c538468-1b10-47c9-8d7d-e4c6403a4b53.png)
+Após a gravação dos nomes utilizando o gravador de voz do Windows foi realizado a extração silábica dos áudios através do software mp3cut, então é feita a medição da duração dos mesmos, assim como pode ser observado na Fig.1 e Fig.2.
+![image](https://user-images.githubusercontent.com/67208118/184557420-e43bacf4-d079-4241-86b2-cd1ac22eaee6.png)
+
