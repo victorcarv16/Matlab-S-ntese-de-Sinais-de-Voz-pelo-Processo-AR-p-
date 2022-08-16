@@ -30,10 +30,35 @@ FIGURA 3: EXTRAÇÃO DOS INTERVALOS SILÁBICOS DO PRIMEIRO E SEGUNDO NOME.
 
 Histogramas de sinal dos intervalos silábicos no 1° nome 1° sílaba são visíveis na Fig.4.
 ![image](https://user-images.githubusercontent.com/67208118/184853252-05e59a37-4bdd-4db0-8941-7fc75e9b782e.png)
+figura 4: histogramas formados a partir  de trechos de 20ms do primeiro nome primeira sílaba.
+
 
 Histogramas de sinal dos intervalos silábicos no 1° nome 2° sílaba são visíveis na Fig.5.
 ![image](https://user-images.githubusercontent.com/67208118/184853600-ea03c4b5-cd1f-436e-b781-47795189ce98.png)
 figura 5: histogramas formados a partir  de trechos de 20ms do primeiro nome segunda sílaba.
 
+Histogramas de sinal dos intervalos silábicos no 2° nome 1° sílaba são visíveis na Fig.6.
+![image](https://user-images.githubusercontent.com/67208118/184853982-8b84b80b-3a63-4bb1-b857-fd8e66f31bd8.png)
+figura 6: histogramas formados a partir  de trechos de 20ms do segundo nome segunda sílaba.
+
+Histogramas de sinal dos intervalos silábicos no 2° nome 2° sílaba são visíveis na Fig.7.
+![image](https://user-images.githubusercontent.com/67208118/184854067-e9944d01-fa94-4c9b-84b6-5431291eae51.png)
+figura 7: histogramas formados a partir  de trechos de 20ms do segundo nome segunda sílaba.
+
+Os gráficos da densidade espectral de potência para cada sílaba são visíveis na Fig.8(gráficos não logarítmos) para p=12.
+![image](https://user-images.githubusercontent.com/67208118/184854217-7d04baec-67b0-4534-8141-44906bf254e8.png)
+figura 8: gráfico das densidades espectrais de potência correspondentes as sílabas(sem aplicação do log).
+
+Os gráficos da densidade espectral de potência para cada sílaba são visíveis na Fig.9(gráficos com 10*log10) para p=12.
+![image](https://user-images.githubusercontent.com/67208118/184854363-443e9e4f-0b84-4422-a522-1b3fa1f57064.png)
+figura 9: gráfico das densidades espectrais de potência correspondentes as sílabas(com aplicação do log).
+
+Coeficientes de correlação a[k] e a variância σv2 para cada sílaba (onde p=12) são visíveis na TABELA 2.
+
+Tabela 2: Coeficientes a[k] calculados para p=12. (matriz de autocorrelação de dimensão 12).
+![image](https://user-images.githubusercontent.com/67208118/184854705-49214391-1b3b-4a4f-902f-9dd97e3b97a4.png)
+
+Tabela 3: Variâncias  σv2 calculados para p=12. (matriz de autocorrelação de dimensão 12).
+![image](https://user-images.githubusercontent.com/67208118/184855024-7867a67b-8fa0-49cd-bb9d-2e400abee218.png)
 
 
