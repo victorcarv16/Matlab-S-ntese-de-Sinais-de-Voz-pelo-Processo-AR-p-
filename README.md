@@ -27,3 +27,13 @@ Foi utilizado o software Octave para todo o procedimento de análise de dados e 
 Os espectros de sinal dos intervalos silábicos no primeiro e segundo nome são visíveis na Fig.3
 ![image](https://user-images.githubusercontent.com/67208118/184852991-a635ecd8-7a25-47f0-806e-54c1a5d1ea02.png)
 FIGURA 3: EXTRAÇÃO DOS INTERVALOS SILÁBICOS DO PRIMEIRO E SEGUNDO NOME.
+
+Histogramas de sinal dos intervalos silábicos no 1° nome 1° sílaba são visíveis na Fig.4.
+![image](https://user-images.githubusercontent.com/67208118/184853252-05e59a37-4bdd-4db0-8941-7fc75e9b782e.png)
+
+Histogramas de sinal dos intervalos silábicos no 1° nome 2° sílaba são visíveis na Fig.5.
+![image](https://user-images.githubusercontent.com/67208118/184853600-ea03c4b5-cd1f-436e-b781-47795189ce98.png)
+figura 5: histogramas formados a partir  de trechos de 20ms do primeiro nome segunda sílaba.
+
+
+
