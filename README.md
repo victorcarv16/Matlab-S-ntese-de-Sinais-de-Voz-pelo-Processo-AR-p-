@@ -21,3 +21,7 @@ Como  resultado do processo de corte silábico no primeiro e segundo nome temos 
 Tabela 1: Duração dos áudios silábicos obtidos através de edição (corte) das gravações.
 ![image](https://user-images.githubusercontent.com/67208118/184558675-9556be4a-e6b6-41de-a5b9-091c556b88e9.png)
 
+Para o corte dos áudios foram utilizado o software mp3cut
+Foi utilizado o software octave para todo o procedimento e o software matlab para plotagem da estimativa de autocorrelação. 
+
+
