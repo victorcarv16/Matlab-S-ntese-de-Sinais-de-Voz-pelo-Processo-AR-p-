@@ -22,6 +22,8 @@ Tabela 1: Duração dos áudios silábicos obtidos através de edição (corte) 
 ![image](https://user-images.githubusercontent.com/67208118/184558675-9556be4a-e6b6-41de-a5b9-091c556b88e9.png)
 
 Para o corte dos áudios foram utilizado o software mp3cut
-Foi utilizado o software octave para todo o procedimento e o software matlab para plotagem da estimativa de autocorrelação. 
+Foi utilizado o software Octave para todo o procedimento de análise de dados e o software Matlab para plotagem da estimativa de autocorrelação. 
 
-
+Os espectros de sinal dos intervalos silábicos no primeiro e segundo nome são visíveis na Fig.3
+![image](https://user-images.githubusercontent.com/67208118/184852991-a635ecd8-7a25-47f0-806e-54c1a5d1ea02.png)
+FIGURA 3: EXTRAÇÃO DOS INTERVALOS SILÁBICOS DO PRIMEIRO E SEGUNDO NOME.
